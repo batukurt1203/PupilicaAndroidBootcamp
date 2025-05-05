@@ -1,7 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Varsayılan tema veya diğer stiller burada olabilir -->
-
     <style name="CalcButton">
         <item name="android:layout_width">0dp</item>
         <item name="android:layout_height">wrap_content</item>
